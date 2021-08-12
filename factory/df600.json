@@ -1,0 +1,9 @@
+{
+	"name": "df600",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a7c0fb85-6dc9-4936-8551-a3d93fe507c3",
+		"tenantId": "6cc05d1c-6862-4b27-8dfe-89399a5f217f"
+	}
+}
