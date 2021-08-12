@@ -1,5 +1,5 @@
-# Azure
+# Azure Openhack
 
-Azure Documents and Code Share
+Documents and Code Share
 
 thanks.
